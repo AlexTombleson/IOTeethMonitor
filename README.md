@@ -1,1 +1,1 @@
-Collect data view bluetooth to display temperature, pressure, and bioimpedance from IO tooth sensor assuming data is continuously being collected. Should work in an app form and is coded on XCode 16.2 for macOS Sonoma in Swift. 
+Collect data from novel implant via bluetooth to display temperature, pressure, and bioimpedance from IO tooth sensor assuming data is continuously being collected. Should work in an app form and is coded on XCode 16.2 for macOS Sonoma in Swift. 
